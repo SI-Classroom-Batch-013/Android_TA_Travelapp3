@@ -24,21 +24,15 @@ class ItemAdapter(
      * der ViewHolder umfasst die View uns stellt einen Listeneintrag dar
      */
     inner class ItemViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        val textView: TextView = itemView.findViewById(R.id.tv_itemCityTitle)
-        val imageView: ImageView = itemView.findViewById(R.id.iv_itemCityImage)
+        // todo:
     }
 
     /**
      * hier werden neue ViewHolder erstellt
      */
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
-
-        // das itemLayout wird gebaut
-        val itemLayout = LayoutInflater.from(parent.context)
-            .inflate(R.layout.list_cities, parent, false)
-
-        // und in einem ViewHolder zurückgegeben
-        return ItemViewHolder(itemLayout)
+        return ItemViewHolder(LayoutInflater.from(parent.context)
+            .inflate(R.layout.list_cities, parent, false))
     }
 
     /**
@@ -46,16 +40,7 @@ class ItemAdapter(
      * die vom ViewHolder bereitgestellten Parameter erhalten die Information des Listeneintrags
      */
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
-        holder.textView.text = context.resources.getString(dataset[position].stringResource)
-        holder.imageView.setImageResource(dataset[position].imageResource)
-
-        holder.itemView.setOnClickListener {
-            val navController = holder.itemView.findNavController()
-            navController.navigate(HomeFragmentDirections.actionHomeFragmentToDetailFragment(
-                titleId = dataset[position].stringResource,
-                imageId = dataset[position].imageResource
-            ))
-        }
+        // todo:
     }
 
     /**

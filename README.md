@@ -55,5 +55,7 @@ height="auto"
 
 ### Aufgabe 3:
 
-Veränder deinen Code, sodass LiveData, SharedViewModel und MVVM genutzt werden,
-um die Qualität deines Codes zu erhöhen.
+- Veränder deinen Code, sodass LiveData, SharedViewModel und MVVM genutzt werden,
+um die Qualität deines Codes zu erhöhen.  
+- Stelle selbstständig sicher, dass dein Code LiveData, SharedViewModel und MVVM 
+verwendet.

@@ -25,10 +25,6 @@ class HomeFragment : Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        val cityTitles = Datasource(requireContext()).loadCities()
-        val recyclerView = binding.recyclerView
-        recyclerView.layoutManager = LinearLayoutManager(requireContext())
-        recyclerView.adapter = ItemAdapter(requireContext(), cityTitles)
-        recyclerView.setHasFixedSize(true)
+        // todo:
     }
 }
