@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android_TA_Travelapp</string>
+
+    <string name="cityTitle1">ATHEN</string>
+    <string name="cityTitle2">BERLIN</string>
+    <string name="cityTitle3">ISTANBUL</string>
+    <string name="cityTitle4">NEW YORK</string>
+    <string name="cityTitle5">PARIS</string>
+    <string name="cityTitle6">PRAG</string>
+    <string name="cityTitle7">ROM</string>
+    <string name="cityTitle8">TOKYO</string>
+</resources>
