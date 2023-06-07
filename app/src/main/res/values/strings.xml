@@ -9,4 +9,44 @@
     <string name="cityTitle6">PRAG</string>
     <string name="cityTitle7">ROM</string>
     <string name="cityTitle8">TOKYO</string>
+
+    <string name="cityDescription1">Athen, die pulsierende Hauptstadt Griechenlands,
+        ist eine faszinierende Mischung aus antiker Geschichte und modernem Stadtleben.
+        Von der majestätischen Akropolis mit dem Parthenon bis hin zu lebendigen Vierteln wie Plaka
+        bietet Athen eine reiche kulturelle Erfahrung und eine beeindruckende Vielfalt an
+        architektonischen Schätzen.</string>
+    <string name="cityDescription2">Berlin, die aufregende Hauptstadt Deutschlands, ist ein kulturelles
+        Zentrum, das Geschichte, Kunst und pulsierendes Stadtleben vereint. Von der historischen Berliner
+        Mauer bis hin zu den modernen Kunstgalerien und vielfältigen Stadtvierteln wie Kreuzberg
+        bietet Berlin eine einzigartige Mischung aus Vergangenheit und Gegenwart.</string>
+    <string name="cityDescription3">Istanbul, die faszinierende Metropole am Bosporus, ist eine
+        Brücke zwischen Europa und Asien und bietet eine reiche Geschichte und Kultur. Von den
+        prachtvollen Moscheen wie der Blauen Moschee bis hin zu den lebhaften Basaren und dem
+        ikonischen Bosporus, begeistert Istanbul mit seiner beeindruckenden Architektur und dem
+        pulsierenden Stadtleben.</string>
+    <string name="cityDescription4">New York, die Stadt, die niemals schläft, ist ein aufregendes
+        Schmelztiegel aus Kultur, Geschäftigkeit und architektonischer Pracht. Von den ikonischen
+        Wolkenkratzern wie dem Empire State Building bis hin zu den pulsierenden Stadtvierteln
+        wie Manhattan und Brooklyn bietet New York ein unvergleichliches Angebot an Kunst, Mode,
+        Gastronomie und Unterhaltung.</string>
+    <string name="cityDescription5">Paris, die romantische Hauptstadt Frankreichs, verzaubert mit
+        ihrer eleganten Schönheit, von den prächtigen Boulevards und dem majestätischen Eiffelturm
+        bis hin zu den charmanten Cafés und der renommierten Kunstszene. Mit einer reichen Geschichte,
+        kulinarischen Köstlichkeiten und ikonischen Wahrzeichen ist Paris ein wahrhaftes Juwel,
+        das Besucher aus aller Welt begeistert.</string>
+    <string name="cityDescription6">Prag, die faszinierende Hauptstadt der Tschechischen Republik,
+        verzaubert mit ihrer malerischen Architektur, den engen Kopfsteinpflastergassen und den
+        mittelalterlichen Brücken über die Moldau. Mit dem beeindruckenden Prager Schloss und der
+        weltberühmten Karlsbrücke ist Prag ein magischer Ort, der Geschichte und Charme in sich
+        vereint.</string>
+    <string name="cityDescription7">Rom, die ewige Stadt, fasziniert mit ihrer überwältigenden
+        Geschichte, angefangen beim Kolosseum bis hin zur beeindruckenden Vatikanstadt. Mit
+        charmanten gepflasterten Straßen, antiken Ruinen und köstlicher italienischer Küche ist
+        Rom ein unvergleichliches Reiseziel, das jeden Besucher in seinen Bann zieht.</string>
+    <string name="cityDescription8">Tokyo, die pulsierende Hauptstadt Japans, ist eine futuristische
+        Metropole, die mit ihrer lebendigen Mischung aus traditioneller Kultur und moderner
+        Technologie begeistert. Von den grellen Neonlichtern des Stadtteils Shinjuku bis hin zu den
+        historischen Tempeln und dem quirligen Straßenleben in Shibuya bietet Tokyo ein
+        unvergleichliches Erlebnis für Reisende, die in eine faszinierende Welt eintauchen
+        möchten.</string>
 </resources>
