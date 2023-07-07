@@ -32,14 +32,17 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="start"
-            android:fontFamily="sans-serif-smallcaps"
+            android:fontFamily="casual"
             android:text="Travel With Me"
-            android:textColor="?attr/colorSecondary"
+            android:textColor="?attr/colorOnPrimary"
             android:textSize="32sp"
             android:textStyle="bold"
-            tools:ignore="HardcodedText,TextContrastCheck" />
-
+            tools:ignore="HardcodedText,TextContrastCheck"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="13dp" />
 
     </androidx.appcompat.widget.Toolbar>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
