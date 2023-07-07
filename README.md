@@ -1,8 +1,8 @@
 # Travel With Me
 
-Die Firma "DreamDestinations" möchte die App "Travel With Me" entwickeln, um ihren Kunden ein erstklassiges 
-Reiseerlebnis zu bieten und ihre Kundenzufriedenheit zu steigern. 
-Die App ermöglicht den Nutzern, detaillierte Informationen über verschiedene Reiseziele abzurufen, 
+Die Firma "DreamDestinations" möchte die App "Travel With Me" entwickeln, um ihren Kunden ein erstklassiges
+Reiseerlebnis zu bieten und ihre Kundenzufriedenheit zu steigern.
+Die App ermöglicht den Nutzern, detaillierte Informationen über verschiedene Reiseziele abzurufen,
 ihre Reisen besser zu planen und ihre individuellen Vorlieben zu berücksichtigen.
 
 ---
@@ -21,8 +21,8 @@ Als Ressourcen hast du ein paar Städtebilder, die Städtenamen und eine kurze B
 
 ### Aufgabe 1:
 
-- Erstelle das Home-Fragment aus **Abbildung 1**. Es enthält eine Liste an Bildern von Städten sowie deren 
-Städtenamen in Form einer RecyclerView.
+- Erstelle das Home-Fragment aus **Abbildung 1**. Es enthält eine Liste an Bildern von Städten sowie deren
+  Städtenamen in Form einer RecyclerView.
 - Wenn der Nutzer auf ein Bild klickt, wird er zu der Detailansicht der Stadt, dargestellt in **Abbildung 2**, weitergeleitet
 - Das Fragment sollte in etwa so aussehen, wie in **Abbildung 1**.
 
@@ -31,9 +31,9 @@ Städtenamen in Form einer RecyclerView.
 </p>
 
 <p align="center">
-<img src="app/src/main/res/drawable/travel_app_home.png"
-width="50%"
-height="auto"
+<img src="app/src/main/res/drawable/travel_app_home.jpg"
+width="300"
+height="600"
 />
 </p>
 
@@ -49,8 +49,8 @@ height="auto"
 </p>
 
 <p align="center">
-<img src="app/src/main/res/drawable/travel_app_detail.png"
-width="50%"
-height="auto"
+<img src="app/src/main/res/drawable/travel_app_detail.jpg"
+width="300"
+height="600"
 />
 </p>
