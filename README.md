@@ -36,7 +36,7 @@ Als Ressourcen hast du ein paar Städtebilder, die Städtenamen und eine kurze B
 
 - Erstelle die Detailansicht. Es enthält mindestens den Namen der Stadt, ein Bild der Stadt sowie eine kleine Beschreibung.
 - Wenn der Nutzer auf ein Bild klickt, wird er zu der Detailansicht der Stadt, dargestellt in **Abbildung 2**, weitergeleitet
-- Über den roten Knopf kann der Nutzer wieder zurücknavigieren.
+- Über den gelben Knopf kann der Nutzer wieder zurücknavigieren.
 - Die Detailansicht sollte in etwa so aussehen, wie in **Abbildung 2**.
 - Du kannst deine Detailansicht erweitern, falls du noch etwas hinzufügen möchtest.
 
